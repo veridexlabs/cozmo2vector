@@ -1,4 +1,4 @@
-# cozmo_unleashed
+# cozmo2vector
 
 Attempting to create a perpetuum cozmobile
 
